@@ -1,0 +1,22 @@
+{
+  "images" : [
+    {
+      "filename" : "starfield-spaceship-game-phone-wallpaper-hd-uhdpaper.com-786@1@l.jpg",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "wp12103521.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
